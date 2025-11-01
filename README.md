@@ -4,8 +4,7 @@
 <h1 align="center">🧠 Maths Practical - Solving Matrix Problems using NumPy (Python)</h1>
 
 <p align="center">
-  <img src="![Logo_RCDU](https://github.com/user-attachments/assets/174667c9-39ce-46c6-842c-ec7fd1d31ec0)
-"/>
+  <img src="![Logo_RCDU](https://github.com/user-attachments/assets/174667c9-39ce-46c6-842c-ec7fd1d31ec0)"/>
 </p>
 
 <h3 align="center">📘 Department of Computer Science</h3>

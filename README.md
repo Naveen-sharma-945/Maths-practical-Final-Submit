@@ -5,7 +5,9 @@
 
 
 <p align="center">
-"![Logo_RCDU](https://github.com/user-attachments/assets/174667c9-39ce-46c6-842c-ec7fd1d31ec0)"
+![Ramanujan Logo](![Logo_RCDU](https://github.com/user-attachments/assets/c52c30a7-4831-4c40-a6a4-d2c722e0ab5c)
+)
+
 </p>
 
 <h3 align="center">📘 Department of Computer Science</h3>

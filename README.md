@@ -5,8 +5,6 @@
 
 
 <p align="center">
-![Ramanujan Logo](![Logo_RCDU](https://github.com/user-attachments/assets/c52c30a7-4831-4c40-a6a4-d2c722e0ab5c)
-)
 
 </p>
 
@@ -26,6 +24,38 @@ It includes examples such as:
 - Computing **eigenvalues and eigenvectors**  
 - Performing **matrix multiplication, addition, and transpose**
 
+ ---
+
+ 
+###INDEX
+   1. Create and transform vectors and matrices (the transpose vector (matrix), conjugate transpose of a vector (matrix)).
+
+2. Generate the matrix into echelon form and find its rank.
+
+3. Find cofactors, determinant, adjoint and inverse of a matrix.
+
+4. Solve a system of homogeneous and non-homogeneous equations using Gauss elimination method.
+
+5. Solve a system of homogeneous equations using the Gauss Jordan method.
+
+6. Generate basis of column space, null space, row space and left null space of a matrix space.
+
+7. Check the linear dependence of vectors. Generate a linear combination of given vectors of Rⁿ / matrices of the same size and find the transition matrix of given matrix space.
+
+8. Find the orthonormal basis of a given vector space using the Gram–Schmidt orthogonalization process.
+
+9. Check the diagonalizable property of matrices and find the corresponding eigenvalue and verify the Cayley–Hamilton theorem.
+
+10. **Application of Linear Algebra:** Coding and decoding of messages using nonsingular matrices.
+    Example: code “Linear Algebra is fun” and then decode it.
+
+11. Compute Gradient of a scalar field.
+
+12. Compute Divergence of a vector field.
+
+13. Compute Curl of a vector field.
+
+
 ---
 
 ### 💻 Technology Used
@@ -36,11 +66,4 @@ It includes examples such as:
 
 ---
 
-### 🧮 Sample Output
 
-```python
-import numpy as np
-
-A = np.array([[2, 3], [1, 4]])
-det = np.linalg.det(A)
-print("Determinant:", det)

@@ -4,10 +4,11 @@
 <h1 align="center">🧠 Maths Practical - Solving Matrix Problems using NumPy (Python)</h1>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/Srinivasa_Ramanujan_-_OPC_-_1.jpg" alt="Ramanujan Logo" width="180" style="border-radius: 10px;"/>
+  <img src="![Logo_RCDU](https://github.com/user-attachments/assets/174667c9-39ce-46c6-842c-ec7fd1d31ec0)
+"/>
 </p>
 
-<h3 align="center">📘 Department of Mathematics</h3>
+<h3 align="center">📘 Department of Computer Science</h3>
 <h3 align="center">Ramanujan College, University of Delhi</h3>
 
 ---
